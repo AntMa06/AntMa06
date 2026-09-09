@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Sun Jinghao 👋
+## Hi, I'm Sun Jinghao 👋
 
 **Civil Engineering @ Chang'an University | 结构工程 × 人工智能 × 防灾减灾**
 
