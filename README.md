@@ -3,7 +3,7 @@
 **Civil Engineering @ Chang'an University | 结构工程 × 人工智能 × 防灾减灾**
 
 🏗️ 长安大学 2024 级本科生
-🔬 研究兴趣：**韧性评估 / 结构智能设计 **
+🔬 研究兴趣：韧性评估 / 结构智能设计 
 
 ---
 
@@ -33,7 +33,9 @@
 ## 📫 Contact / 联系方式
 
 - 📧 Email：jinghaos554@gmail.com/2790480564@qq.com
-- 
+- 个人抖音账号
+  <img width="2160" height="3500" alt="1161256036b7bc093fee5858893bd8bc" src="https://github.com/user-attachments/assets/6c7efd0a-d60d-4fe3-ba3d-6a98bb1caff8" />
+
 - 欢迎对"AI + 土木工程"感兴趣的老师同学交流合作！
 
 ---
