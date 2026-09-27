@@ -33,8 +33,7 @@
 ## 📫 Contact / 联系方式
 
 - 📧 Email：jinghaos554@gmail.com/2790480564@qq.com
-- 个人抖音账号
-  <img width="2160" height="3500" alt="1161256036b7bc093fee5858893bd8bc" src="https://github.com/user-attachments/assets/6c7efd0a-d60d-4fe3-ba3d-6a98bb1caff8" />
+- <img width="2160" height="2407" alt="9e05e01599b1688fcaefd6e630568bc3" src="https://github.com/user-attachments/assets/073365d4-0ff9-4ec1-8f8d-846e24aa95a8" />
 
 - 欢迎对"AI + 土木工程"感兴趣的老师同学交流合作！
 
