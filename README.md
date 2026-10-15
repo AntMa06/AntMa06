@@ -3,14 +3,9 @@
 **Civil Engineering @ Chang'an University | 结构工程 × 人工智能 × 防灾减灾**
 
 🏗️ 长安大学 2024 级本科生
-🔬 研究兴趣：韧性评估 / 结构智能设计 
+🔬 研究兴趣：结构韧性评估 / 结构智能设计 / 防灾减灾 / 工程抗震 / 有限元分析
 
 ---
-
-## 🔍 About Me / 关于我
-
-- 长安大学土木工程与智能建造学院
-- 关注交叉方向：结构工程 · 工程抗震 · 防灾减灾  · 智能建造
 
 ## 🚀 Featured Project / 代表性项目
 
@@ -27,7 +22,7 @@
 ## 🛠️ Skills / 技能
 
 - **Programming**：Python（Pandas / NumPy / scikit-learn）、Streamlit、MATLAB 基础
-- **Engineering**：结构力学、混凝土结构、工程抗震、SAP2000 / PKPM
+- **Engineering**：Matlab / SAP2000 / PKPM / Revit / Abaqus
 - **Tools**：Git & GitHub、PyCharm、Markdown
 
 ## 📫 Contact / 联系方式
